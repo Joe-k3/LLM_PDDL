@@ -1,0 +1,3 @@
+(sliceobject robot1 lettuce countertop)
+(sliceobject robot1 tomato countertop)
+; cost = 2 (unit cost)

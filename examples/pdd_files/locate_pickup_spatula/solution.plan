@@ -1,0 +1,4 @@
+; Solution for locate_pickup_spatula_problem.pddl with robot2_domain.pddl
+; Source: lammap_old/Wash_the_lettuce_and_place_lettuce_on_the_Countertop_plans_01-23-2026-14-58-51/validated_subtask/1_1_locate_pickup_spatula_problem_plan.txt
+(pickupobject robot2 spatula countertop)
+; cost = 1 (unit cost)

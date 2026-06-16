@@ -1,0 +1,9 @@
+; Solution for clean_utensils_problem.pddl with robot2_domain.pddl
+; Source: lammap_old/logs/Demonstrate_a_meal_prep_workflow_plans_01-23-2026-16-01-05/validated_subtask/1_1_clean_utensils_problem_plan.txt
+(gotoobject robot2 bowl)
+(cleanobject robot2 bowl)
+(gotoobject robot2 cup)
+(cleanobject robot2 cup)
+(gotoobject robot2 plate)
+(cleanobject robot2 plate)
+; cost = 6 (unit cost)

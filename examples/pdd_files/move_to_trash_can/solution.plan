@@ -1,0 +1,4 @@
+; Solution for move_to_trash_can_problem.pddl with robot2_domain.pddl
+; Source: lammap_old/Wash_the_lettuce_and_place_lettuce_on_the_Countertop_plans_01-23-2026-14-58-51/validated_subtask/1_1_move_to_trash_can_problem_plan.txt
+(gotoobject robot2 garbagecan)
+; cost = 1 (unit cost)

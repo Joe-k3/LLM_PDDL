@@ -1,0 +1,5 @@
+ai2thor
+scipy
+numpy
+opencv-python
+pathlib
