@@ -1,0 +1,6 @@
+[submodule "LaMMA-P"]
+	path = LaMMA-P
+	url = https://github.com/tasl-lab/LaMMA-P.git
+[submodule "ViLaIn"]
+	path = ViLaIn
+	url = https://github.com/omron-sinicx/ViLaIn.git
