@@ -10,3 +10,6 @@
 [submodule "SMART-LLM"]
 	path = SMART-LLM
 	url = https://github.com/SMARTlab-Purdue/SMART-LLM.git
+[submodule "tamp-manipulation"]
+	path = tamp-manipulation
+	url = https://github.com/GTLIDAR/tamp-manipulation.git
