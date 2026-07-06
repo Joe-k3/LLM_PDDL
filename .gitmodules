@@ -4,3 +4,9 @@
 [submodule "ViLaIn"]
 	path = ViLaIn
 	url = https://github.com/omron-sinicx/ViLaIn.git
+[submodule "LLaMAR"]
+	path = LLaMAR
+	url = https://github.com/nsidn98/LLaMAR.git
+[submodule "SMART-LLM"]
+	path = SMART-LLM
+	url = https://github.com/SMARTlab-Purdue/SMART-LLM.git
